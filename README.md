@@ -28,7 +28,7 @@ Une application de gestion de tâches moderne et intuitive, développée avec Re
 
 1. Clonez ce dépôt sur votre machine locale :
    ```bash
-   git clone https://github.com/votre-nom/todolist_react.git
+   git clone https://github.com/creasitenet/todolist_react.git
    cd todolist_react
    ```
 
